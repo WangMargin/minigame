@@ -1,0 +1,20 @@
+# Swift/Xcode
+.build/
+*.xcworkspace
+xcuserdata/
+DerivedData/
+*.xcuserstate
+*.xcuserdata/
+.swiftpm/
+Package.resolved
+
+# macOS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Playground
+*.playground/
